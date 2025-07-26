@@ -1,0 +1,23 @@
+{
+  "companies": [
+    {
+      "company_id": "com_1",
+      "company_name": "A 커머스",
+      "categories": [
+        { "category_id": "cat_101", "category_name": "매출", "keywords": ["네이버페이", "쿠팡"] },
+        { "category_id": "cat_102", "category_name": "식비", "keywords": ["배달의민족", "김밥천국"] },
+        { "category_id": "cat_103", "category_name": "사무용품비", "keywords": ["오피스디포"] }
+      ]
+    },
+    {
+      "company_id": "com_2",
+      "company_name": "B 커머스",
+      "categories": [
+        { "category_id": "cat_201", "category_name": "교통비", "keywords": ["카카오 T", "택시"] },
+        { "category_id": "cat_202", "category_name": "통신비", "keywords": ["KT", "SKT"] },
+        { "category_id": "cat_203", "category_name": "지급수수료", "keywords": ["우체국", "등기"] },
+        { "category_id": "cat_204", "category_name": "복리후생비", "keywords": ["스타벅스"] }
+      ]
+    }
+  ]
+}
